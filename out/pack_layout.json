@@ -1,0 +1,1291 @@
+{
+  "n_cells": 408,
+  "cell_axis": "y",
+  "row_axis": "z",
+  "col_axis": "x",
+  "n_rows": 17,
+  "n_cols": 12,
+  "n_banks": 2,
+  "arrangement": "staggered",
+  "stagger_offset_mm": 10.25,
+  "transverse_pitch_S_T_mm": 20.5,
+  "longitudinal_pitch_S_L_mm": 25.19999999999999,
+  "bank_centres_mm": [
+    -201.44131997899174,
+    -134.4413199789917
+  ],
+  "bank_pitch_mm": 67.00000000000006,
+  "row_centres_mm": [
+    -481.526593351849,
+    -456.326593351848,
+    -431.126593351848,
+    -405.926593351848,
+    -380.72659335184807,
+    -355.526593351848,
+    -330.326593351848,
+    -305.126593351848,
+    -279.926593351848,
+    -254.726593351848,
+    -229.526593351848,
+    -204.326593351848,
+    -179.126593351848,
+    -153.926593351848,
+    -128.726593351848,
+    -103.526593351848,
+    -78.3265933518483
+  ],
+  "cell_bbox_diameter_mm": 19.916016685380043,
+  "cell_diameter_mm": 18.4,
+  "cell_length_mm": 65.00000019999999,
+  "cell_span_mm": {
+    "row": [
+      -481.526593351849,
+      -78.3265933518483
+    ],
+    "col": [
+      -230.38041252369302,
+      5.36958747631044
+    ],
+    "bank": [
+      -201.441319979003,
+      -134.441319978979
+    ]
+  },
+  "diagonal_pitch_S_D_mm": 27.204824939705077,
+  "S_T_over_D": 1.1141304347826089,
+  "S_L_over_D": 1.3695652173913038,
+  "transverse_gap_mm": 2.1000000000000014,
+  "diagonal_gap_mm": 8.804824939705078,
+  "min_gap_mm": 2.1000000000000014,
+  "row_detail": [
+    {
+      "centre_mm": -481.526593351849,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -230.38,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -456.326593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -220.13,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -431.126593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -230.38,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -405.926593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -220.13,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -380.72659335184807,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -230.38,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -355.526593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -220.13,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -330.326593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -230.38,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -305.126593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -220.13,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -279.926593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -230.38,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -254.726593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -220.13,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -229.526593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -230.38,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -204.326593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -220.13,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -179.126593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -230.38,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -153.926593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -220.13,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -128.726593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -230.38,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -103.526593351848,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -220.13,
+      "pitch_mm": 20.5
+    },
+    {
+      "centre_mm": -78.3265933518483,
+      "n_cells": 24,
+      "n_cols": 12,
+      "first_mm": -230.38,
+      "pitch_mm": 20.5
+    }
+  ],
+  "units": {
+    "ok": true,
+    "units": "mm",
+    "n_cells": 408,
+    "median_cell_length_mm": 65.00000019999999,
+    "median_cell_diameter_mm": 19.916016685380043,
+    "expected_length_mm": 65.0,
+    "expected_diameter_mm": 18.4
+  },
+  "fit_check": {
+    "ok": true,
+    "verdict": "all cells inside the enclosure",
+    "case": {
+      "n_plates": 7,
+      "xmin": -457.00159642585,
+      "xmax": 192.99840377415097,
+      "ymin": -270.836003214393,
+      "ymax": -90.8360030143929,
+      "zmin": -540.4481957747901,
+      "zmax": -40.44819557478976,
+      "names": [
+        "8-0001 Box_Bottom_plate-1",
+        "8-0002 Box_Back_plate-2",
+        "8-0003 Box_Side_plate-1",
+        "8-0004 Box_Top_piece-1"
+      ]
+    },
+    "cell_extent_mm": {
+      "xmin": -240.33842086638305,
+      "xmax": 15.327595819003877,
+      "ymin": -233.94132007900396,
+      "ymax": -101.94131987897805,
+      "zmin": -491.48460169453904,
+      "zmax": -68.36858500915828
+    },
+    "cell_clearances": {
+      "x": {
+        "case_mm": [
+          -457.00159642585,
+          192.99840377415097
+        ],
+        "part_mm": [
+          -240.33842086638305,
+          15.327595819003877
+        ],
+        "clearance_low_mm": 216.66317555946694,
+        "clearance_high_mm": 177.6708079551471
+      },
+      "y": {
+        "case_mm": [
+          -270.836003214393,
+          -90.8360030143929
+        ],
+        "part_mm": [
+          -233.94132007900396,
+          -101.94131987897805
+        ],
+        "clearance_low_mm": 36.894683135389016,
+        "clearance_high_mm": 11.105316864585149
+      },
+      "z": {
+        "case_mm": [
+          -540.4481957747901,
+          -40.44819557478976
+        ],
+        "part_mm": [
+          -491.48460169453904,
+          -68.36858500915828
+        ],
+        "clearance_low_mm": 48.96359408025103,
+        "clearance_high_mm": 27.920389434368523
+      }
+    },
+    "n_noncell_bodies_outside": 51,
+    "noncell_bodies_outside": [
+      "Divider Board-1",
+      "Merlin Dummy Spacer (Gen XI Mounting)-1",
+      "Module Spacer-1"
+    ]
+  },
+  "size_outliers": {
+    "n": 66,
+    "bodies": [
+      {
+        "index": 14,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 22,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 30,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 42,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 51,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 60,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 66,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 74,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 84,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 91,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 98,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 109,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 115,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 124,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 132,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 138,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 147,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 157,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 165,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 176,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 181,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 190,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 201,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 208,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 215,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 225,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 232,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 241,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 249,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 254,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 262,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 721,
+        "name": "Interconnect Cover-1",
+        "class": "busbar",
+        "sorted_dims_mm": [
+          12.59,
+          14.09,
+          38.69
+        ],
+        "expected_mm": [
+          1.5,
+          3.0,
+          6.0
+        ]
+      },
+      {
+        "index": 321,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 322,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 491,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 492,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 703,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 704,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 869,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 870,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 963,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 964,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1054,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1055,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1285,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1286,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1424,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1425,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1596,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1597,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1757,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1758,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1816,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1817,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1947,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 1948,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 2096,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 2097,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 2270,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 2271,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 2459,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 2460,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 2595,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 2596,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 2767,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          25.29,
+          159.69,
+          160.43
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      },
+      {
+        "index": 2768,
+        "name": "Module Spacer-1",
+        "class": "structure",
+        "sorted_dims_mm": [
+          159.67,
+          165.27,
+          179.7
+        ],
+        "expected_mm": [
+          92.48,
+          162.48,
+          170.07
+        ]
+      }
+    ]
+  },
+  "class_counts": {
+    "case_plate": 7,
+    "busbar": 949,
+    "fastener": 173,
+    "other": 389,
+    "structure": 878,
+    "cell": 408
+  },
+  "part_counts": {
+    "Cell Mounting Tape-1": 816,
+    "Tab Solder-1": 612,
+    "LG INR18650 MJ1-1": 408,
+    "Tab Sheet-1": 136,
+    "Interconnect Cover-1": 128,
+    "90183A214_Washer for Blind Rivets-1": 102,
+    "7792-1__NONE": 102,
+    "7461111-1__1": 102,
+    "NCU18WB473D6SRB-1": 85,
+    "93705A823_18-8 Stainless Steel Thread-Locking Socket Head Screw-1": 70,
+    "705510072-1__Imported1": 34,
+    "705510075-1__Imported1": 34,
+    "Module Spacer-1": 34,
+    "V_r Connection-1": 34,
+    "42037-1-1__Imported1": 32,
+    "Bus Bar-1": 32,
+    "Divider Board-1": 17,
+    "Tie Rod Insert-1": 4,
+    "Tie Rod Mount-1": 4,
+    "8-0002 Box_Back_plate-2": 2,
+    "8-0003 Box_Side_plate-1": 2,
+    "8-0004 Box_Top_piece-1": 2,
+    "Positive Busbar Conductor-1": 2,
+    "Positive Busbar Washer-1": 2,
+    "Busbar Insulation-1": 2
+  }
+}

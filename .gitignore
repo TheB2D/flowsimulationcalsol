@@ -1,0 +1,20 @@
+# Virtualenv — recreate with requirements.txt
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Derived tessellation cache: rebuilt from the .step files on first run (~33 s).
+# 136 MB of pickles, so it stays out of git.
+cache/
+
+# LaTeX build intermediates (report.pdf itself is kept)
+writeup/*.aux
+writeup/*.log
+writeup/*.out
+writeup/build.log
+
+# macOS
+.DS_Store
